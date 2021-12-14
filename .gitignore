@@ -16,10 +16,3 @@
 .idea/
 *.swp
 *.swo
-
-# The service executable
-jiradlp
-
-
-config/user.json
-connect-app-config/user.json
